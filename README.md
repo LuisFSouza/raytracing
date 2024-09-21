@@ -19,7 +19,7 @@ Para fazer o chão, foi utilizado uma esfera de material lambertiano, de cor cin
 
 Para gerar a segunda imagem, trocamos a esfera de decoração verde (que era de material lambertiano) de posição com a esfera de decoração de material dielétrico, e movemos a camêra para ter uma visão como se tivesse olhando mais da direita.
 
-Imagem cena 2
+![raytracing2](https://github.com/user-attachments/assets/6ec60827-e501-4bfd-b186-9f99ba549271)
 
 ### Esferas utilizadas
 * <strong>Chão</strong>: Uma grande esfera de raio 100.0, posicionada sob a figura principal. O material do chão é lambertiano (difuso), com cor cinza clara (RGB(0.66, 0.66, 0.66)).
