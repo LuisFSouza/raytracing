@@ -15,7 +15,7 @@ Ao lado esquerdo do boneco, há uma esfera de metal de cor prata. Entre o boneco
 Ao lado direito do boneco, há uma esferera de material dielétrico. Entre o boneco e essa esfera, posicionado mais atrás, há uma esfera de material metal, de cor prata, com borramento.
 Para fazer o chão, foi utilizado uma esfera de material lambertiano, de cor cinza clara, e de raio grande
 
-Imagem Cena 1
+![raytracing1](https://github.com/user-attachments/assets/21258678-0830-4fea-b0bc-69f5f3265bc8)
 
 Para gerar a segunda imagem, trocamos a esfera de decoração verde (que era de material lambertiano) de posição com a esfera de decoração de material dielétrico, e movemos a camêra para ter uma visão como se tivesse olhando mais da direita.
 
